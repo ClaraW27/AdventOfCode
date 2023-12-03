@@ -1,0 +1,7 @@
+C:\Users\Clara.Wang\Desktop\all my coding practice\c-sharp\AoC\AoC\bin\Debug\AoC.exe.config
+C:\Users\Clara.Wang\Desktop\all my coding practice\c-sharp\AoC\AoC\bin\Debug\AoC.exe
+C:\Users\Clara.Wang\Desktop\all my coding practice\c-sharp\AoC\AoC\bin\Debug\AoC.pdb
+C:\Users\Clara.Wang\Desktop\all my coding practice\c-sharp\AoC\AoC\obj\Debug\AoC.csproj.AssemblyReference.cache
+C:\Users\Clara.Wang\Desktop\all my coding practice\c-sharp\AoC\AoC\obj\Debug\AoC.csproj.CoreCompileInputs.cache
+C:\Users\Clara.Wang\Desktop\all my coding practice\c-sharp\AoC\AoC\obj\Debug\AoC.exe
+C:\Users\Clara.Wang\Desktop\all my coding practice\c-sharp\AoC\AoC\obj\Debug\AoC.pdb
