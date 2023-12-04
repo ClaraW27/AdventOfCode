@@ -27,13 +27,21 @@ namespace AoC
             //myDayTwoPartTwo.MySolution();
 
             // Day 3 part 1
-            DayThreePartOne myDayThreePartOne=new DayThreePartOne();
-            myDayThreePartOne.MySolution();
+            //DayThreePartOne myDayThreePartOne=new DayThreePartOne();
+            //myDayThreePartOne.MySolution();
 
             // Day 3 part 2
-            DayThreePartTwo myDayThreePartTwo=new DayThreePartTwo();
-            myDayThreePartTwo.MySolution();
-            
+            //DayThreePartTwo myDayThreePartTwo=new DayThreePartTwo();
+            //myDayThreePartTwo.MySolution();
+
+            // Day 4 part 1
+            DayFourPartOne myDayFourPartOne=new DayFourPartOne();
+            myDayFourPartOne.MySolution();
+
+            // Day 4 part 2
+            DayFourPartTwo myDayFourPartTwo = new DayFourPartTwo();
+            myDayFourPartTwo.MySolution();
+
 
             Console.ReadKey();
 
