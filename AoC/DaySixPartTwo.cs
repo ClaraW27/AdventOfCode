@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+// should have done it with quadratic equation!!!
+
 namespace AoC
 {
     internal class DaySixPartTwo
